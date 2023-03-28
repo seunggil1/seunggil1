@@ -1,5 +1,5 @@
 # My profile
-현재 싸피에서 공부 중인 백엔드 개발자입니다.
+.
 <br>
 <div align=center>
 
